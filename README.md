@@ -1,4 +1,4 @@
-# Knife Writeup
+# Knife Writeup (Hack The Box) by [yag1n3](https://github.com/yaguine)
 
 ### objetives
 * user flag
